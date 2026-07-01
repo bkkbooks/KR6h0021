@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6h0021/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈悲地藏菩薩懺法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1487.xml
+    old_id: X74n1487
+hash: sha256:1ca2dd1ddec3d79daedcb5fccd723f4b7185bac93a061442a53ddb2ce658518e

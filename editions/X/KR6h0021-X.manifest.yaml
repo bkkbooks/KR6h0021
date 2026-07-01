@@ -1,0 +1,312 @@
+canonical_identifier: bkk:krp/KR6h0021/X/v1
+canonical_location: https://kanripo.org/bkk/KR6h0021/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈悲地藏菩薩懺法
+  identifiers:
+    krp: KR6h0021
+    cbeta: X74n1487
+    cbeta_old_id: X74n1487
+    authorityid: CA0000759
+    json_key: X1487
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1487.xml
+    old_id: X74n1487
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0021_000-X.yaml, hash: 'sha256:1ca2dd1ddec3d79daedcb5fccd723f4b7185bac93a061442a53ddb2ce658518e'}
+  - {seq: 1, filename: KR6h0021_001-X.yaml, hash: 'sha256:5c85830ee895d6e9924cc384cc9b80e0f9663bfce0c57f69b476a311cedc04fa'}
+  - {seq: 2, filename: KR6h0021_002-X.yaml, hash: 'sha256:ba32a72fd37bba4882102b45d9f0d490bcd5f764d4cab28fa4970bdd9872f3a0'}
+  - {seq: 3, filename: KR6h0021_003-X.yaml, hash: 'sha256:1b06ff2e18ab022c1de43b8606ea0053642d89af225019b077a145d174de237b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6h0021_000-X.markers.yaml, hash: 'sha256:ec9ee7cb250d45bc77a705a21536d37e9701e3eda4ec8ada28d4c0fc18bf80d1'}
+  - {seq: 1, role: markers, filename: assets/KR6h0021_001-X.markers.yaml, hash: 'sha256:f41cc00f2f1f93f980aee2c6eed0ee7c403beadcb9e17a9b6b81d4ea7edb7963'}
+  - {seq: 2, role: markers, filename: assets/KR6h0021_002-X.markers.yaml, hash: 'sha256:eb811a49d7dbc31e2e3c8b32413d458d8b05fb65c2743a8fc9153e17ee000028'}
+  - {seq: 3, role: markers, filename: assets/KR6h0021_003-X.markers.yaml, hash: 'sha256:079ca1018ae8544655ad65e613f685525177444bb7eb730145ebc8809299a485'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0021_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3863
+  label: 慈悲地藏懺法卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0021_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 嚴淨壇場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0021_X_001-mulu-2
+    span:
+    - body
+    - 245
+    - 245
+  label: 香讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0021_X_001-mulu-3
+    span:
+    - body
+    - 3818
+    - 3818
+  label: 讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 5682
+  label: 慈悲地藏懺法卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 禮佛懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-2
+    span:
+    - body
+    - 878
+    - 878
+  label: 懺煩惱障
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-3
+    span:
+    - body
+    - 878
+    - 878
+  label: 第一先懺淫習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-4
+    span:
+    - body
+    - 1125
+    - 1125
+  label: 第二懺悔貪習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-5
+    span:
+    - body
+    - 1391
+    - 1391
+  label: 第三懺悔慢習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-6
+    span:
+    - body
+    - 1610
+    - 1610
+  label: 第四懺悔瞋習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-7
+    span:
+    - body
+    - 1829
+    - 1829
+  label: 第五懺悔詐習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-8
+    span:
+    - body
+    - 2241
+    - 2241
+  label: 第六誑習交誣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-9
+    span:
+    - body
+    - 2468
+    - 2468
+  label: 第七怨習交嫌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-10
+    span:
+    - body
+    - 2698
+    - 2698
+  label: 第八見習交明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-11
+    span:
+    - body
+    - 2980
+    - 2980
+  label: 第九枉習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-12
+    span:
+    - body
+    - 3215
+    - 3215
+  label: 第十懺悔訟習
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-13
+    span:
+    - body
+    - 3729
+    - 3729
+  label: 悔業障
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-14
+    span:
+    - body
+    - 3909
+    - 3909
+  label: 一者眼根見業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-15
+    span:
+    - body
+    - 4189
+    - 4189
+  label: 二者懺悔聞報
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-16
+    span:
+    - body
+    - 4441
+    - 4441
+  label: 三者嗅報交時
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-17
+    span:
+    - body
+    - 4719
+    - 4719
+  label: 四者嗜味
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-18
+    span:
+    - body
+    - 5003
+    - 5003
+  label: 五者觸報
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-19
+    span:
+    - body
+    - 5265
+    - 5265
+  label: 六者意業招報
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0021_X_002-mulu-20
+    span:
+    - body
+    - 5643
+    - 5643
+  label: 讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0021_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 4683
+  label: 慈悲地藏懺法卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0021_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0021_X_003-mulu-2
+    span:
+    - body
+    - 4644
+    - 4644
+  label: 讚
+  type: mulu
+  level: 1
+hash: sha256:6c90422b66a4354c2b8b505b82d8d476cbbb59dbc5d869d0973e95c192d20f3a
